@@ -1,5 +1,0 @@
-import meep as mp
-import numpy as np
-from matplotlib import pyplot as plt
-from IPython.display import Video
-from meep.materials import Ag
